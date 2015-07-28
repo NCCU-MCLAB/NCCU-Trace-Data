@@ -2,7 +2,7 @@
 NCCU Trace Data is a mobility model
 
 
-This data can be imported into "The One Simulator"
+This data can be imported into the ONE simulator.
 
 contact : 100753503@nccu.edu.tw
 
